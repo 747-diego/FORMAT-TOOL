@@ -1,6 +1,6 @@
 <h1> To run the Betty linter just with command betty <filename>: </h1>
 
-<5> Go to the Betty repository </h5> 
+<h5> Go to the Betty repository </h5> 
 
 <p>
 <br> Clone the repo to your local machine
